@@ -15,7 +15,6 @@ PILHA, como Tipo de Dados Abstrato. Para isso, é proposto a criação de um pro
 classificar por cor, peças coloridas, em tubos.
 
 Como Usar
-
 Cada pasta de projeto terá seu próprio arquivo README com instruções específicas para executar ou compilar o código.
 
 Contribuições
